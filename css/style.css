@@ -56,6 +56,17 @@ body {
     margin: 10px;
 
 }
+.joman{
+      width: auto;
+    padding: 20px;
+    font-size: 19px;
+    text-wrap: nowrap;
+    background-color:#754ef9;
+    color: white;
+    border-radius: 10px;
+    margin: 10px;
+    
+}
 
 .header {
     position: fixed;
